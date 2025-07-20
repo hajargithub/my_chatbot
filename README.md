@@ -13,7 +13,7 @@ My ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **OpenA
 ✅ Text & image-based conversation  
 ✅ GPT-4o vision support  
 ✅ DALL·E integration for image generation  
-✅ Avatar bubbles for user 🤵 and assistant 🤖  
+✅ Avatar bubbles for user  and assistant   
 ✅ Image preview with zoom support  
 ✅ Auto-scroll and input attachment preview  
 ✅ Simple login screen (mock for now)
@@ -44,7 +44,7 @@ My ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **OpenA
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/my_chatbot
+   git clone https://github.com/hajargithub/my_chatbot.git
    cd my_chatbot
    ```
 
